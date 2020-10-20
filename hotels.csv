@@ -1,0 +1,36 @@
+Hotel_Id,Hotel_Name,City,Country,Ratings
+2001,Moody Moon,Manali,India,4
+2002,Mandarin Oriental,Shimla,India,3
+2003,Four Seasons Hotel,Kullu,India,3
+2004,Knights Inn,Srinagar,India,1
+2005,Radisson Hotel,Kasol,India,3
+2006,Classio Hotel,Jammu,India,2
+2007,The Bay Club,Bir,India,1
+2008,Travelodge,Dehradhun,India,3
+2009,Jack Summer Inn,Rishikesh,India,5
+2010,Hotel Grizzly,Nainital,India,1
+2011,Twice Happy Resorts,New York,Us,3
+2012,Hotel Agoura,Los Angeles,Us,4
+2013,Hotel Crossroads,Chicago,Us,3
+2014,Grand Hotel,Houston,Us,1
+2015,The Bristol Hotel,Moscow,Russia,5
+2016,Hollywood Sands,St Petersburg,Russia,5
+2017,The Gourmet Resorts,Ekaterinoburg,Russia,3
+2018,Cotton House Hotel,Omsk,Russia,4
+2019,The Watson Hotel,Perm,Russia,5
+2020,Pacifica Hotel,Berlin,Germany,4
+2021,Hotel Barry Love,Hamburg,Germany,5
+2022,Cosmopolitan Hotel,Munich,Germany,3
+2023,White Dove Hotels,Cologne,Germany,2
+2024,Reefs Resort & Club,Essen,Germany,4
+2025,Beachwalk Resort,Sydney,Australia,3
+2026,Fountain Fun,Melbourne,Australia,2
+2027,Hotel Vitale,Brisbane,Australia,2
+2028,Cable Car Hotel,Perth,Australia,5
+2029,The Mosser Hotel,Adelaide,Australia,5
+2030,Redstone,Gold Coast,Australia,1
+2031,Hotel Vitale,Montreal ,Canada,3
+2032,Land’s End Resort,Vancouver ,Canada,5
+2033,Manchester Grand Hyatt,Calgary ,Canada,5
+2034,Palace Hotel,Edmonton ,Canada,3
+2035,Paradise Point Resort,Ottawa,Canada,5

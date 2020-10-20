@@ -1,0 +1,25 @@
+pack_id,pack_name,place_description,no_of_days,dom/int,price
+601,north_india_platinum,manali-kullu-shimla-kasol-bir,20,dom,5000
+602,north_india_gold,dehradhun-rishikesh-nainital,15,dom,6000
+603,north_india_silver,srinagar-jammu,10,dom,5500
+604,north_india_bronze,manali-shimla-kasol,7,dom,7500
+605,germany_platinum,berlin-hamburg-munich-calogne,30,int,8000
+606,germany_gold,berlin-munich-essen,20,int,4000
+607,germany_silver,munich-calogne-essen,15,int,6200
+608,germany_bronze,berlin-essen,10,int,5100
+609,usa_platinum,newyork-LA-chicago-houstan,30,int,8000
+610,usa_gold,newyork-chicago-houstan,20,int,7000
+611,usa_silver,LA - hosutan,15,int,4000
+612,usa_bronze,newyork-chicago,10,int,6100
+613,canada_platiinum,Montreal -vancouver-calgary-edmontan,30,int,7000
+614,canada_gold,montreal-calgary-ottawa,20,int,25000
+615,canada_silver,vancouver-edmontan-ottawa ,15,int,20000
+616,canada_bronze,montreal-ottawa,10,int,35000
+617,australia_platiinum,Sydney-melbourne-brisbane-perth,30,int,30000
+618,australia_gold,Melbourne-adelaide-gold coast,20,int,26000
+619,australia_silver,sydney-adelaide,15,int,15200
+620,australia_bronze,melbourne-gold coast,10,int,32000
+621,russia_platiinum,Moscow-st petetsburg-omsk-perm,30,int,42000
+622,russia_gold,St Petersburg-ekaterinoburg-perm,20,int,25000
+623,russia_silver,moscow-perm,15,int,36000
+624,russia_bronze,St Petersburg-omsk,10,int,27510
